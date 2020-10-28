@@ -1,4 +1,9 @@
 gensim
+pathlib
+numpy
+pyper
+xarray
+argparse
 
 [docs]
 sphinx

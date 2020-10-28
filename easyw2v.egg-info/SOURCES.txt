@@ -4,6 +4,13 @@ README.rst
 requirements.txt
 setup.cfg
 setup.py
+doc/Makefile
+doc/about.rst
+doc/installation.rst
+doc/make.bat
+doc/quickstart.rst
+doc/source/conf.py
+doc/source/index.rst
 easyw2v/__init__.py
 easyw2v/__main__.py
 easyw2v.egg-info/PKG-INFO
@@ -11,4 +18,5 @@ easyw2v.egg-info/SOURCES.txt
 easyw2v.egg-info/dependency_links.txt
 easyw2v.egg-info/requires.txt
 easyw2v.egg-info/top_level.txt
+tests/sample.Rdata
 tests/sample.corpus
