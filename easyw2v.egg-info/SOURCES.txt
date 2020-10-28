@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+easyw2v/__init__.py
+easyw2v/__main__.py
+easyw2v.egg-info/PKG-INFO
+easyw2v.egg-info/SOURCES.txt
+easyw2v.egg-info/dependency_links.txt
+easyw2v.egg-info/requires.txt
+easyw2v.egg-info/top_level.txt
+tests/sample.corpus

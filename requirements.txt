@@ -1,0 +1,6 @@
+gensim
+pathlib
+numpy
+pyper
+xarray
+argparse
